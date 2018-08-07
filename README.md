@@ -1,8 +1,9 @@
 # Zooo
 ### Downloads
-* Zooo: [Ver 2.0.2018 (2018. 8. 15 released)](http://www.dreamycni.com)
-* [adb-win-1.0.40](http://www.dreamycni.com)
+* **Zooo** : [Ver 2.0.2018 (2018. 8. 15 released)](http://www.dreamycni.com)
+* [adb-win-1.0.40](https://github.com/dreamycni/Zooo/blob/master/adb-win-1.0.40.zip)
 
+- - -
 ### Zooo Android Debug Helper
 ##### Brand new ADB Log viewer and Filter for android developer.
 
@@ -11,5 +12,6 @@
 * Showing and editing android properties Property Manager 
 * Monitoring results of ADB execution Cmd Catcher
 
+- - -
 ### What's New
 * Initial Released. ver 2.0.2018
