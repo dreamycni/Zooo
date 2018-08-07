@@ -1,7 +1,7 @@
 # Zooo
 ### Downloads
 * **Zooo** : [Ver 2.0.2018 (2018. 8. 15 released)](http://www.dreamycni.com)
-* [adb-win-1.0.40](https://github.com/dreamycni/Zooo/blob/master/adb-win-1.0.40.zip)
+* [adb-win-1.0.40](https://github.com/dreamycni/Zooo/raw/master/adb-win-1.0.40.zip)
 
 - - -
 ### Zooo Android Debug Helper
