@@ -7,10 +7,11 @@
 ### Zooo Android Debug Helper
 ##### Brand new ADB Log viewer and Filter for android developer.
 
-##### High performance brand new log filter Log Puss 
-* Exporing files in mobile phone File Explorer 
-* Showing and editing android properties Property Manager 
-* Monitoring results of ADB execution Cmd Catcher
+* High performance brand new log filter **Log Puss**
+* Exporing files in mobile phone **File Explorer**
+* Showing and editing android properties **Property Manager**
+* Monitoring results of ADB execution **Cmd Catcher**
+* Screen capture, Send touch and key event **Capture Owl**
 
 - - -
 ### What's New
