@@ -1,6 +1,6 @@
 # Zooo
 ### Downloads
-* **Zooo** : [Ver 2.0.2018 (2018. 8. 10 released)](https://github.com/dreamycni/Zooo/raw/master/Zooo_v2.0.2018_R6710_180810.zip)
+* **Zooo** : [Ver 2.0.2018 (2018. 8. 10 released)](https://github.com/dreamycni/Zooo/raw/master/Zooo_v2.0.2018_R6721_180810.zip)
 * [adb-win-1.0.40](https://github.com/dreamycni/Zooo/raw/master/adb-win-1.0.40.zip)
 * Homepage : http://www.dreamycni.com
 
